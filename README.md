@@ -20,15 +20,15 @@ Customer support and sales teams were collecting satisfaction survey data across
 ## Dashboard Screenshots
 
 ### Overview
-![Overview](https://github.com/mohdzubair0402-ux/-nps-csat-dashboard/blob/main/screenshots%5C01-overview.png)
+![Overview](https://github.com/mohdzubair0402-ux/-nps-csat-dashboard/blob/main/screenshots/01-overview.png)
 Total responses, Avg CSAT, and NPS% at a glance, with slicers for Region, Product Category, and Month. The Promoters/Passives/Detractors breakdown and a monthly NPS% trend line sit alongside a regional NPS comparison.
 
 ### CSAT by Product Category
-![CSAT by Category](https://github.com/mohdzubair0402-ux/-nps-csat-dashboard/blob/main/screenshots%5C02-csat-by-category.png)
+![CSAT by Category]( https://github.com/mohdzubair0402-ux/-nps-csat-dashboard/blob/main/screenshots/02-csat-by-category.png)
 Average CSAT broken down by product line, plus a detailed Detractor/Passive/Promoter count table per category.
 
 ### Detractor Root-Cause Analysis
-![Detractor Analysis](https://github.com/mohdzubair0402-ux/-nps-csat-dashboard/blob/main/screenshots%5C03-detractor-analysis.png)
+![Detractor Analysis](https://github.com/mohdzubair0402-ux/-nps-csat-dashboard/blob/main/screenshots/03-detractor-analysis.png)
 Drill-through view showing Detractor counts by Issue Type, with a filterable detail table of individual complaints (e.g., billing errors) and their exact CSAT scores.
 
 ## Key Insights
