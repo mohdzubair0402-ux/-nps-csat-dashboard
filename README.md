@@ -20,7 +20,7 @@ Customer support and sales teams were collecting satisfaction survey data across
 ## Dashboard Screenshots
 
 ### Overview
-![Overview](screenshots/01-overview.png)
+![Overview](https://github.com/mohdzubair0402-ux/-nps-csat-dashboard/blob/main/screenshots%5C01-overview.png)
 Total responses, Avg CSAT, and NPS% at a glance, with slicers for Region, Product Category, and Month. The Promoters/Passives/Detractors breakdown and a monthly NPS% trend line sit alongside a regional NPS comparison.
 
 ### CSAT by Product Category
